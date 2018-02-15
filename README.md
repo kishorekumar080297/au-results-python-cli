@@ -22,5 +22,8 @@ pip install -r requirements.txt
 python au-results.py
 ```
 
+## Example
+![Alt text](/img/image.png?raw=true)
+
 ## License
 Copyright (c) 2018 Kishore Kumar <kishorekumar080297@gmail.com>  
